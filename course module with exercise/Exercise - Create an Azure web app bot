@@ -1,0 +1,13 @@
+# Exercise - Create an Azure web app bot
+
+# The first step in creating a bot is to provide a location for the bot to be hosted in Azure. The Web Apps feature of Azure App Service is perfect for hosting bot applications, and the Azure Bot Service is designed to provision them for you. In this unit, you'll use the Azure portal to provision an Azure web app bot.
+
+# Sign into the Azure portal .
+
+# From the Azure portal menu, select Create a resource.
+[![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
+
+
+[![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/master.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/master)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/master)
+[![devDependency Status](https://david-dm.org/electron/electron/dev-status.svg)](https://david-dm.org/electron/electron?type=dev)
