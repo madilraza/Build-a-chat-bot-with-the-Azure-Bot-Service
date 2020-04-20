@@ -5,7 +5,7 @@
 # Sign into the Azure portal .
 
 # From the Azure portal menu, select Create a resource.
-[![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
+[![AZURE PORTAL Logo](https://docs.microsoft.com/en-gb/learn/modules/build-chat-bot-with-azure-bot-service/media/2-create-a-resource.png)
 
 
 [![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/master.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/master)
