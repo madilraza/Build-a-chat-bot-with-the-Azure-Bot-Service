@@ -14,7 +14,7 @@
 
 
 Select AI + Machine Learning, and then select Web App Bot.
-[![AZURE PORTAL Logo]https://docs.microsoft.com/en-gb/learn/modules/build-chat-bot-with-azure-bot-service/media/2-new-bot-service.png)
+[![AZURE PORTAL 2]https://docs.microsoft.com/en-gb/learn/modules/build-chat-bot-with-azure-bot-service/media/2-new-bot-service.png)
 
 
 On the New Web App Bot page, enter the following settings for the new Web App Bot.
