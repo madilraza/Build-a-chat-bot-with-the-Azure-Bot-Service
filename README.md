@@ -19,4 +19,10 @@ You will need an active Azure subscription (or trial) along with a local install
 5 min.
 # Summary and Cleanup
 8 min.
+[![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
+
+
+[![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/master.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/master)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/master?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/master)
+[![devDependency Status](https://david-dm.org/electron/electron/dev-status.svg)](https://david-dm.org/electron/electron?type=dev)
 
