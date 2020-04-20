@@ -19,7 +19,7 @@ You will need an active Azure subscription (or trial) along with a local install
 5 min.
 # Summary and Cleanup
 8 min.
-[![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
+[![Electron Logo](https://docs.microsoft.com/en-gb/learn/modules/build-chat-bot-with-azure-bot-service/media/2-create-a-resource.png)
 
 
 [![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/master.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/master)
