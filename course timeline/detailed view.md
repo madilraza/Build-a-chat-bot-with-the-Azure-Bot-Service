@@ -19,3 +19,4 @@ Debug bots locally using Visual Studio Code and the Microsoft Bot Framework Emul
 Prerequisites
 You will need an active Azure subscription (or trial) along with a local install of Visual Studio Code to complete the exercises in this module.
 
+# assigments and submisions
